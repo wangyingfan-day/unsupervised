@@ -1,0 +1,1 @@
+datasets.cfg内定义visda2017的路径，然后执行 sh se-en+ssl.sh device_idx,如sh se-en+ssl.sh 0将在0卡上运行
